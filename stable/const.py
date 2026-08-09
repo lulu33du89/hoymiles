@@ -4,7 +4,7 @@ Module contain consts and templates used in addon.
 
 import datetime
 
-BASE_URL = "https://neapi.hoymiles.com"
+BASE_URL = "https://global.hoymiles.com"
 LOGIN_API = "/iam/pub/0/auth/login"
 USER_ME = "/iam/pub/0/user/user_me"
 GET_DATA_API = "/pvm-data/api/0/station/data/count_station_real_data"
